@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace P01_StudentSystem.Migrations
 {
     /// <inheritdoc />
-    public partial class IntialCreat : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Course",
+                name: "Courses",
                 columns: table => new
                 {
                     CourseId = table.Column<int>(type: "int", nullable: false)
@@ -25,11 +25,11 @@ namespace P01_StudentSystem.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Course", x => x.CourseId);
+                    table.PrimaryKey("PK_Courses", x => x.CourseId);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Student",
+                name: "Students",
                 columns: table => new
                 {
                     StudentId = table.Column<int>(type: "int", nullable: false)
@@ -41,11 +41,11 @@ namespace P01_StudentSystem.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Student", x => x.StudentId);
+                    table.PrimaryKey("PK_Students", x => x.StudentId);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Resource",
+                name: "Resources",
                 columns: table => new
                 {
                     ResourceId = table.Column<int>(type: "int", nullable: false)
@@ -57,17 +57,17 @@ namespace P01_StudentSystem.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Resource", x => x.ResourceId);
+                    table.PrimaryKey("PK_Resources", x => x.ResourceId);
                     table.ForeignKey(
-                        name: "FK_Resource_Course_CourseId",
+                        name: "FK_Resources_Courses_CourseId",
                         column: x => x.CourseId,
-                        principalTable: "Course",
+                        principalTable: "Courses",
                         principalColumn: "CourseId",
                         onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Homework",
+                name: "Homeworks",
                 columns: table => new
                 {
                     HomeworkId = table.Column<int>(type: "int", nullable: false)
@@ -80,23 +80,23 @@ namespace P01_StudentSystem.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Homework", x => x.HomeworkId);
+                    table.PrimaryKey("PK_Homeworks", x => x.HomeworkId);
                     table.ForeignKey(
-                        name: "FK_Homework_Course_CourseId",
+                        name: "FK_Homeworks_Courses_CourseId",
                         column: x => x.CourseId,
-                        principalTable: "Course",
+                        principalTable: "Courses",
                         principalColumn: "CourseId",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Homework_Student_StudentId",
+                        name: "FK_Homeworks_Students_StudentId",
                         column: x => x.StudentId,
-                        principalTable: "Student",
+                        principalTable: "Students",
                         principalColumn: "StudentId",
                         onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(
-                name: "StudentCourse",
+                name: "StudentCourses",
                 columns: table => new
                 {
                     StudentId = table.Column<int>(type: "int", nullable: false),
@@ -104,39 +104,39 @@ namespace P01_StudentSystem.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_StudentCourse", x => new { x.StudentId, x.CourseId });
+                    table.PrimaryKey("PK_StudentCourses", x => new { x.StudentId, x.CourseId });
                     table.ForeignKey(
-                        name: "FK_StudentCourse_Course_CourseId",
+                        name: "FK_StudentCourses_Courses_CourseId",
                         column: x => x.CourseId,
-                        principalTable: "Course",
+                        principalTable: "Courses",
                         principalColumn: "CourseId",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_StudentCourse_Student_StudentId",
+                        name: "FK_StudentCourses_Students_StudentId",
                         column: x => x.StudentId,
-                        principalTable: "Student",
+                        principalTable: "Students",
                         principalColumn: "StudentId",
                         onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Homework_CourseId",
-                table: "Homework",
+                name: "IX_Homeworks_CourseId",
+                table: "Homeworks",
                 column: "CourseId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Homework_StudentId",
-                table: "Homework",
+                name: "IX_Homeworks_StudentId",
+                table: "Homeworks",
                 column: "StudentId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Resource_CourseId",
-                table: "Resource",
+                name: "IX_Resources_CourseId",
+                table: "Resources",
                 column: "CourseId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_StudentCourse_CourseId",
-                table: "StudentCourse",
+                name: "IX_StudentCourses_CourseId",
+                table: "StudentCourses",
                 column: "CourseId");
         }
 
@@ -144,19 +144,19 @@ namespace P01_StudentSystem.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Homework");
+                name: "Homeworks");
 
             migrationBuilder.DropTable(
-                name: "Resource");
+                name: "Resources");
 
             migrationBuilder.DropTable(
-                name: "StudentCourse");
+                name: "StudentCourses");
 
             migrationBuilder.DropTable(
-                name: "Course");
+                name: "Courses");
 
             migrationBuilder.DropTable(
-                name: "Student");
+                name: "Students");
         }
     }
 }

@@ -13,8 +13,8 @@ namespace P01_StudentSystem.Models
         public string Name { get; set; }  
         public string Url { get; set; }
         public ResourceTypeEnum ResourceType { get; set; }//enum
+        
         public int CourseId { get; set; }
-
         public Course Course { get; set; }  
 
     }

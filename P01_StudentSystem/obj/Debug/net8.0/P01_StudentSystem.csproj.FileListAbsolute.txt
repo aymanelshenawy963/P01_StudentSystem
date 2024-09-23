@@ -128,3 +128,4 @@ C:\Users\Ayman Elshenawy\source\repos\P01_StudentSystem\P01_StudentSystem\obj\De
 C:\Users\Ayman Elshenawy\source\repos\P01_StudentSystem\P01_StudentSystem\obj\Debug\net8.0\P01_StudentSystem.pdb
 C:\Users\Ayman Elshenawy\source\repos\P01_StudentSystem\P01_StudentSystem\obj\Debug\net8.0\P01_StudentSystem.genruntimeconfig.cache
 C:\Users\Ayman Elshenawy\source\repos\P01_StudentSystem\P01_StudentSystem\obj\Debug\net8.0\ref\P01_StudentSystem.dll
+C:\Users\Ayman Elshenawy\source\repos\P01_StudentSystem\P01_StudentSystem\obj\Debug\net8.0\P01_StudentSystem.sourcelink.json

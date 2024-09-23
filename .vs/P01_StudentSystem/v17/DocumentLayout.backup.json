@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240919142146_IntialCreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P01_StudentSystem\\Migrations\\20240919142146_IntialCreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_studentsystem\\p01_studentsystem\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_studentsystem\\p01_studentsystem\\data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_studentsystem\\p01_studentsystem\\models\\resourcetypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\models\\resourcetypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_studentsystem\\p01_studentsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_studentsystem\\p01_studentsystem\\models\\contenttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\models\\contenttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_studentsystem\\p01_studentsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_studentsystem\\p01_studentsystem\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_studentsystem\\p01_studentsystem\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,12 +27,16 @@
       "RelativeMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_studentsystem\\p01_studentsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_studentsystem\\p01_studentsystem\\models\\contenttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\models\\contenttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_studentsystem\\p01_studentsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_studentsystem\\p01_studentsystem\\models\\resourcetypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E24CC9-BC3B-47C8-93AE-B513A15510FD}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\models\\resourcetypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923201315_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P01_StudentSystem\\Migrations\\20240923201315_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +46,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240919142146_IntialCreat.cs",
-              "DocumentMoniker": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240919142146_IntialCreat.cs",
-              "RelativeDocumentMoniker": "P01_StudentSystem\\Migrations\\20240919142146_IntialCreat.cs",
-              "ToolTip": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240919142146_IntialCreat.cs",
-              "RelativeToolTip": "P01_StudentSystem\\Migrations\\20240919142146_IntialCreat.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "20240923201315_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923201315_InitialCreate.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\Migrations\\20240923201315_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923201315_InitialCreate.cs",
+              "RelativeToolTip": "P01_StudentSystem\\Migrations\\20240923201315_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T14:21:46.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T20:13:16.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "StudentSystemContext.cs",
               "DocumentMoniker": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Data\\StudentSystemContext.cs",
               "RelativeDocumentMoniker": "P01_StudentSystem\\Data\\StudentSystemContext.cs",
               "ToolTip": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Data\\StudentSystemContext.cs",
               "RelativeToolTip": "P01_StudentSystem\\Data\\StudentSystemContext.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwE4AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T16:16:52.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ContentTypeEnum.cs",
               "DocumentMoniker": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Models\\ContentTypeEnum.cs",
               "RelativeDocumentMoniker": "P01_StudentSystem\\Models\\ContentTypeEnum.cs",
@@ -84,12 +83,11 @@
               "RelativeToolTip": "P01_StudentSystem\\Models\\ContentTypeEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T01:52:59.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T01:52:59.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ResourceTypeEnum.cs",
               "DocumentMoniker": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Models\\ResourceTypeEnum.cs",
               "RelativeDocumentMoniker": "P01_StudentSystem\\Models\\ResourceTypeEnum.cs",
@@ -97,25 +95,23 @@
               "RelativeToolTip": "P01_StudentSystem\\Models\\ResourceTypeEnum.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T01:48:50.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T01:48:50.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Resource.cs",
               "DocumentMoniker": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Models\\Resource.cs",
               "RelativeDocumentMoniker": "P01_StudentSystem\\Models\\Resource.cs",
               "ToolTip": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Models\\Resource.cs",
               "RelativeToolTip": "P01_StudentSystem\\Models\\Resource.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:13:24.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T16:13:24.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Homework.cs",
               "DocumentMoniker": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Models\\Homework.cs",
               "RelativeDocumentMoniker": "P01_StudentSystem\\Models\\Homework.cs",
@@ -123,25 +119,24 @@
               "RelativeToolTip": "P01_StudentSystem\\Models\\Homework.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:12:00.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T16:12:00.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Models\\Student.cs",
               "RelativeDocumentMoniker": "P01_StudentSystem\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Models\\Student.cs",
               "RelativeToolTip": "P01_StudentSystem\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T16:08:32.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Models\\Course.cs",
               "RelativeDocumentMoniker": "P01_StudentSystem\\Models\\Course.cs",
@@ -149,12 +144,11 @@
               "RelativeToolTip": "P01_StudentSystem\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:09:34.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T16:09:34.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StudentCourse.cs",
               "DocumentMoniker": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Models\\StudentCourse.cs",
               "RelativeDocumentMoniker": "P01_StudentSystem\\Models\\StudentCourse.cs",
@@ -162,8 +156,7 @@
               "RelativeToolTip": "P01_StudentSystem\\Models\\StudentCourse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T01:39:01.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T01:39:01.987Z"
             }
           ]
         }

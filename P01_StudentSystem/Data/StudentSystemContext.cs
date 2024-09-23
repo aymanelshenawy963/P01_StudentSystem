@@ -10,6 +10,11 @@ namespace P01_StudentSystem.Data
 {
     internal class StudentSystemContext:DbContext
     {
+        public DbSet<Student> Students { get; set; }
+        public DbSet<Course> Courses { get; set; }
+        public DbSet<Resource> Resources { get; set; }
+        public DbSet<Homework> Homeworks { get; set; }
+        public DbSet<StudentCourse> StudentCourses { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
