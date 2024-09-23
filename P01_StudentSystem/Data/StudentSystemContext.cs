@@ -81,14 +81,6 @@ namespace P01_StudentSystem.Data
             modelBuilder.Entity<Homework>()
            .Property(e => e.Content)
            .IsUnicode(false);
-            //enum
-
-
-              
-
-
-
-
 
         }
 
